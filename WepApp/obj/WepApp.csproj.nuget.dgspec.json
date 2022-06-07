@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aehol\\Desktop\\WebCovid\\WepApp\\WepApp\\WepApp.csproj": {}
+    "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aehol\\Desktop\\WebCovid\\WepApp\\WepApp\\WepApp.csproj": {
+    "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WepApp\\WepApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aehol\\Desktop\\WebCovid\\WepApp\\WepApp\\WepApp.csproj",
+        "projectUniqueName": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "projectName": "WepApp",
-        "projectPath": "C:\\Users\\aehol\\Desktop\\WebCovid\\WepApp\\WepApp\\WepApp.csproj",
+        "projectPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "packagesPath": "C:\\Users\\aehol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aehol\\Desktop\\WebCovid\\WepApp\\WepApp\\obj\\",
+        "outputPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WepApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aehol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,26 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
