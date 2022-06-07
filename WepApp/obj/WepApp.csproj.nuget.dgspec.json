@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "packagesPath": "C:\\Users\\aehol\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
+=======
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "projectName": "WepApp",
+        "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "packagesPath": "C:\\Users\\minhm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
+>>>>>>> 1daae57cf4de7401cb12ef6256e44b8adfe28e43
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aehol\\AppData\\Roaming\\NuGet\\NuGet.Config",

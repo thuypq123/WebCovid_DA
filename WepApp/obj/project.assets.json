@@ -7254,11 +7254,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
       "projectName": "WepApp",
       "projectPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
       "packagesPath": "C:\\Users\\aehol\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+      "projectName": "WepApp",
+      "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+      "packagesPath": "C:\\Users\\minhm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
+>>>>>>> 1daae57cf4de7401cb12ef6256e44b8adfe28e43
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aehol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7331,5 +7339,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
