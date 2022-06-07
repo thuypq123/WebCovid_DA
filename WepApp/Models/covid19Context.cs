@@ -29,7 +29,7 @@ namespace WepApp.Models
         public virtual DbSet<Quoctich> Quoctiches { get; set; }
         public virtual DbSet<Sanpham> Sanphams { get; set; }
         public virtual DbSet<Tokhai> Tokhais { get; set; }
-
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
