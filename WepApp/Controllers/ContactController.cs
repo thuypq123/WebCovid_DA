@@ -2,13 +2,9 @@
 
 namespace WepApp.Controllers
 {
-    public class ProductController : Controller
+    public class ContactController : Controller
     {
         public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Details()
         {
             return View();
         }

@@ -6,14 +6,14 @@
 
     <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/x-icon/01.png">
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/images/x-icon/01.png">
 
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/icofont.min.css">
-    <link rel="stylesheet" href="assets/css/lightcase.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/animate.css">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/icofont.min.css">
+    <link rel="stylesheet" href="~/assets/css/lightcase.css">
+    <link rel="stylesheet" href="~/assets/css/swiper.min.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
 
     <title>Covid-19</title>
 </head>
@@ -23,7 +23,7 @@
     <div class="mobile-menu">
         <nav class="mobile-header">
             <div class="header-logo">
-                <a href="index.html"><img src="assets/images/logo/01.png" alt="logo"></a>
+                <a href="index.html"><img src="~/assets/images/logo/01.png" alt="logo"></a>
             </div>
             <div class="header-bar">
                 <span></span>
@@ -85,6 +85,7 @@
                             </ul>
                         </li>
                         <li><a href="contact.html">Contact</a></li>
+                        <li>@Html.ActionLink("Gop Y", "index", "product")</li>
                     </ul>
                 </div>
             </div>
@@ -97,7 +98,7 @@
             <div class="container">
                 <div class="primary-menu">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/logo/03.png" alt="logo"></a>
+                        <a href="index.html"><img src="~/assets/images/logo/03.png" alt="logo"></a>
                     </div>
                     <div class="main-area">
                         <div class="main-menu">
@@ -152,6 +153,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="contact.html">Contact</a></li>
+                                <li>@Html.ActionLink("Gop Y", "index", "product")</li>
                             </ul>
                         </div>
                         <div class="header-btn">
@@ -167,7 +169,7 @@
     @RenderBody()
 
     <!-- Footer Section Start Here -->
-    <footer style="background-image: url(assets/css/bg-image/footer-bg-3.jpg);">
+    <footer style="background-image: url(/assets/css/bg-image/footer-bg-3.jpg);">
         <div class="footer-top padding-tb">
             <div class="container">
                 <div class="row">
@@ -272,14 +274,14 @@
     <!-- scrollToTop ending here -->
 
 
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/lightcase.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/jquery.countdown.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/functions.js"></script>
+    <script src="~/assets/js/jquery.js"></script>
+    <script src="~/assets/js/waypoints.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/lightcase.js"></script>
+    <script src="~/assets/js/isotope.pkgd.min.js"></script>
+    <script src="~/assets/js/swiper.min.js"></script>
+    <script src="~/assets/js/jquery.countdown.min.js"></script>
+    <script src="~/assets/js/wow.min.js"></script>
+    <script src="~/assets/js/functions.js"></script>
 </body>
 </html>
