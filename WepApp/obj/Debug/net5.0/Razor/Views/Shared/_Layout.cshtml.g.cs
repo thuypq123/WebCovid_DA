@@ -26,9 +26,11 @@ using WepApp.Models;
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6f5cfaa91a5a43859e2e063c375457dc040ae718", @"/Views/Shared/_Layout.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2dceed3eadc0eed3a599f602ecc73130d63ae80b", @"/Views/Shared/_Layout.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"35881990136e32ae488f6d16f5989a6100247a67", @"/Views/_ViewImports.cshtml")]
+    #nullable restore
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
+    #nullable disable
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("rel", new global::Microsoft.AspNetCore.Html.HtmlString("shortcut icon"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_1 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("type", new global::Microsoft.AspNetCore.Html.HtmlString("image/x-icon"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -387,8 +389,19 @@ using WepApp.Models;
 #line default
 #line hidden
 #nullable disable
-                WriteLiteral("</li>\r\n                                        <li>");
+                WriteLiteral("</li>\r\n<<<<<<< HEAD\r\n                                        <li>");
 #nullable restore
+<<<<<<< HEAD
+=======
+#line 152 "C:\Users\aehol\Desktop\WebCovid_DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
+                                       Write(Html.ActionLink("Product page", "Details", "product"));
+
+#line default
+#line hidden
+#nullable disable
+                WriteLiteral("</li>\r\n                                        <li><a href=\"shop-single.html\">Product Single</a></li>\r\n=======\r\n                                        <li>");
+#nullable restore
+>>>>>>> 13ef9097705f9357ced6d92b488e363949fed479
 #line 151 "C:\Users\minhm\source\repos\WebCovid_DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
                                        Write(Html.ActionLink("Product single", "Details", "product"));
 
@@ -396,6 +409,7 @@ using WepApp.Models;
 #line hidden
 #nullable disable
                 WriteLiteral(@"</li>
+>>>>>>> 8ba15243d757e29dbc939df63aca7cad939a226c
                                         <li><a href=""cart-page.html"">Cart Page</a></li>
                                     </ul>
                                 </li>
@@ -680,16 +694,26 @@ Write(RenderBody());
             WriteLiteral("\r\n</html>");
         }
         #pragma warning restore 1998
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IUrlHelper Url { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.IViewComponentHelper Component { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; } = default!;
+        #nullable disable
+        #nullable restore
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<dynamic> Html { get; private set; } = default!;
+        #nullable disable
     }
 }
 #pragma warning restore 1591
