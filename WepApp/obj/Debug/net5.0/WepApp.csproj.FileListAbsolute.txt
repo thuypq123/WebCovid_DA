@@ -291,3 +291,4 @@ C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.dll
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\ref\WepApp.dll
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.pdb
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.genruntimeconfig.cache
+C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
