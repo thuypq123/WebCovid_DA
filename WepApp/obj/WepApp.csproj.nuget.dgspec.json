@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WepApp\\WepApp.csproj": {
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "projectName": "WepApp",
-        "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "packagesPath": "C:\\Users\\minhm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WepApp\\obj\\",
+        "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
