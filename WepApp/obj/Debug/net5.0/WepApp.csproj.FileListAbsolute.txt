@@ -291,4 +291,6 @@ C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.dll
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\ref\WepApp.dll
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.pdb
 C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\WepApp.genruntimeconfig.cache
-C:\Users\minhm\Source\Repos\WebCovid_DA\WepApp\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\aehol\Desktop\WebCovid_DA\WepApp\bin\Debug\net5.0\WepApp.StaticWebAssets.xml
+C:\Users\aehol\Desktop\WebCovid_DA\WepApp\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\aehol\Desktop\WebCovid_DA\WepApp\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
