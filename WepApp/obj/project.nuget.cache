@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "UaioJPK/AzYJ/QdosLURRBUH3cpxUMCgSUb1fOnQn+jRrvIZiHaITblRWmaRx6NyRpP1x+XcNXHZpP+TAPWY0g==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
-=======
   "dgSpecHash": "dtFmzUQmyhNrY89GZKJ2B4WwMeGkZy8FqYbMoF/Hb2/Fck/ejaY0p0ey9bG2lfyRrG7blqPhg2SteY6qIqCyLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
->>>>>>> 1daae57cf4de7401cb12ef6256e44b8adfe28e43
   "expectedPackageFiles": [
     "C:\\Users\\minhm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\minhm\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
