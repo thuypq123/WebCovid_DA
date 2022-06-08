@@ -26,7 +26,7 @@ using WepApp.Models;
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6f5cfaa91a5a43859e2e063c375457dc040ae718", @"/Views/Shared/_Layout.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2dceed3eadc0eed3a599f602ecc73130d63ae80b", @"/Views/Shared/_Layout.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"35881990136e32ae488f6d16f5989a6100247a67", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
@@ -389,7 +389,27 @@ using WepApp.Models;
 #line default
 #line hidden
 #nullable disable
-                WriteLiteral("</li>\r\n                                        <li>");
+                WriteLiteral("</li>\r\n<<<<<<< HEAD\r\n                                        <li>");
+#nullable restore
+<<<<<<< HEAD
+#line 151 "C:\Users\aehol\Desktop\DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+#line 151 "C:\Users\aehol\Desktop\WebCovid_DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
+=======
+<<<<<<< HEAD
+=======
+#line 152 "C:\Users\aehol\Desktop\WebCovid_DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
+=======
+#line 152 "C:\Users\minhm\source\repos\WebCovid_DA\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
+>>>>>>> 7ab0e730d8c96f983e44f43e27df7d0c10089fe8
+                                       Write(Html.ActionLink("Product page", "Details", "product"));
+
+#line default
+#line hidden
+#nullable disable
+                WriteLiteral("</li>\r\n                                        <li><a href=\"shop-single.html\">Product Single</a></li>\r\n=======\r\n                                        <li>");
 #nullable restore
 #line 151 "C:\Users\aehol\Desktop\DA2\WebCovid_DA\WepApp\Views\Shared\_Layout.cshtml"
                                        Write(Html.ActionLink("Product single", "Details", "product"));
@@ -398,6 +418,7 @@ using WepApp.Models;
 #line hidden
 #nullable disable
                 WriteLiteral(@"</li>
+>>>>>>> 8ba15243d757e29dbc939df63aca7cad939a226c
                                         <li><a href=""cart-page.html"">Cart Page</a></li>
                                     </ul>
                                 </li>

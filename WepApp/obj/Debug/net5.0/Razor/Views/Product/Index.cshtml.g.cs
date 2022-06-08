@@ -197,8 +197,7 @@ using WepApp.Models;
                                 </li>
                                 <");
             WriteLiteral(@"li class=""d-none d-sm-block"">
-                                    <a href=""#"">10</a>
-                                </li>
+                                    <a href=""#"">10</a>                                </li>
                                 <li>
                                     <a href=""#"">11</a>
                                 </li>
@@ -388,3 +387,4 @@ using WepApp.Models;
     }
 }
 #pragma warning restore 1591
+>>>>>>> 6c1cc638406cbb1c17625eca8a1ca9b74f9e23e6
