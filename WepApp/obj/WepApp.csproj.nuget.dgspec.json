@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {
+    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "projectName": "WepApp",
-        "projectPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
-        "packagesPath": "C:\\Users\\aehol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aehol\\Desktop\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
-=======
-    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
-        "projectName": "WepApp",
-        "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
+        "projectPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WepApp\\WepApp.csproj",
         "packagesPath": "C:\\Users\\minhm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
->>>>>>> 1daae57cf4de7401cb12ef6256e44b8adfe28e43
+        "outputPath": "C:\\Users\\minhm\\source\\repos\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WebCovid_DA\\WepApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
