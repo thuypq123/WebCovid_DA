@@ -17,6 +17,8 @@ namespace WepApp.Models
         public string Tensp { get; set; }
         public short? Soluong { get; set; }
         public int? Dongia { get; set; }
+        public string Img { get; set; }
+        public string Thongtin { get; set; }
 
         public virtual Danhmuc MadmNavigation { get; set; }
         public virtual ICollection<CtHoadon> CtHoadons { get; set; }
